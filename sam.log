@@ -1,70 +1,70 @@
-[1780962703.115213] [h2:1094237:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115620] [h2:1094238:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115667] [h2:1094242:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115691] [h2:1094236:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115721] [h2:1094243:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115756] [h2:1094246:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115765] [h2:1094241:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115782] [h2:1094235:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115797] [h2:1094240:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115798] [h2:1094247:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115818] [h2:1094239:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115883] [h2:1094245:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.116033] [h2:1094244:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.115917] [h2:1094234:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.117428] [h2:1094248:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.120158] [h2:1094249:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.123398] [h2:1094252:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.123398] [h2:1094251:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.123761] [h2:1094250:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.144122] [h2:1094255:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.147294] [h2:1094256:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.147555] [h2:1094253:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.151346] [h2:1094259:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.152061] [h2:1094261:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.153538] [h2:1094265:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.153621] [h2:1094257:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.161724] [h2:1094263:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.167435] [h2:1094254:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.167806] [h2:1094262:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.168237] [h2:1094258:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.172286] [h2:1094260:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.173219] [h2:1094264:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.265917] [h3:1109962:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.265918] [h3:1109968:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.265917] [h3:1109964:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.266495] [h3:1109967:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.266594] [h3:1109965:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.266634] [h3:1109963:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.266668] [h3:1109966:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.267556] [h3:1109950:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.267889] [h3:1109945:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268057] [h3:1109944:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268241] [h3:1109949:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268330] [h3:1109947:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268570] [h3:1109952:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268627] [h3:1109951:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.269238] [h3:1109946:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.269249] [h3:1109948:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268474] [h3:1109970:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268474] [h3:1109969:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.268523] [h3:1109971:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.294493] [h3:1109974:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.295763] [h3:1109975:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.299391] [h3:1109973:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.300652] [h3:1109972:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.303287] [h3:1109977:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.303853] [h3:1109976:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.309832] [h3:1109978:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.310315] [h3:1109980:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.313152] [h3:1109979:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.313521] [h3:1109983:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.315824] [h3:1109984:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.316596] [h3:1109981:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
-[1780962703.323344] [h3:1109982:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504241] [h2:1097624:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504241] [h2:1097627:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504240] [h2:1097621:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504241] [h2:1097623:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504250] [h2:1097622:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504251] [h2:1097629:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504361] [h2:1097628:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504379] [h2:1097626:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504596] [h2:1097620:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504820] [h2:1097625:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.504917] [h2:1097630:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.505302] [h2:1097619:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507289] [h2:1097631:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507467] [h2:1097634:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507759] [h2:1097635:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507983] [h2:1097636:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507570] [h2:1097632:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.507661] [h2:1097633:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.534078] [h2:1097637:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.536606] [h2:1097644:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.538538] [h2:1097647:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.539458] [h2:1097645:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.542599] [h2:1097639:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.544862] [h2:1097638:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.544998] [h2:1097640:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.548509] [h2:1097642:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.548560] [h2:1097641:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.557986] [h2:1097643:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.558331] [h2:1097648:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.561779] [h2:1097646:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.561800] [h2:1097649:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.566121] [h2:1097650:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.644765] [h3:1113344:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.644809] [h3:1113339:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.644942] [h3:1113340:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.644817] [h3:1113345:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.644949] [h3:1113342:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645254] [h3:1113343:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645440] [h3:1113329:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645470] [h3:1113324:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645607] [h3:1113326:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645661] [h3:1113327:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645686] [h3:1113323:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.645720] [h3:1113322:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.646131] [h3:1113321:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.646501] [h3:1113328:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.647960] [h3:1113325:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.648159] [h3:1113346:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.651164] [h3:1113349:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.651164] [h3:1113347:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.651207] [h3:1113348:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.675342] [h3:1113350:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.676225] [h3:1113353:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.676227] [h3:1113351:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.676236] [h3:1113352:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.693943] [h3:1113358:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.696081] [h3:1113360:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.696205] [h3:1113361:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.699355] [h3:1113357:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.699477] [h3:1113359:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.703415] [h3:1113356:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.704250] [h3:1113354:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.712391] [h3:1113366:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
+[1780966611.714466] [h3:1113355:0]     ucp_context.c:1849 UCX  WARN  UCP API version is incompatible: required >= 1.16, actual 1.13.1 (loaded from /lib/x86_64-linux-gnu/libucp.so.0)
  total number of requested cores:          64
  number of MPI tasks:          64
- Initial System Time =    1780962704.35652     
+ Initial System Time =    1780966612.64625     
     _____ _       _           _                                  
    / ____| |     | |         | |                                 
   | |  __| | ___ | |__   __ _| |                                 
@@ -104,7 +104,7 @@
      ***          Stony Brook, New York, USA           ***
      *****************************************************
      *****************************************************
-            DATE 06/08/26 TIME 16:51:44
+            DATE 06/08/26 TIME 17:56:52
      *****************************************************
  
  nrestart=           0
@@ -2312,30 +2312,274 @@ NSTEP =    177 NCYCLE= 1 dtn= 1.000 CFL=0.15 CFLH=0.15 CFLZ=0.00 CFLG=0.00 niter
 NSTEP =    178 NCYCLE= 1 dtn= 1.000 CFL=0.15 CFLH=0.15 CFLZ=0.00 CFLG=0.00 niter= 0 err=  0.0    
 NSTEP =    179 NCYCLE= 1 dtn= 1.000 CFL=0.15 CFLH=0.15 CFLZ=0.00 CFLG=0.00 niter= 0 err=  0.0    
  Collecting statistics...
- Forced exit from Rosenbrock due to the following error:
- --> Step size too small: T + 0.1*H = T or H < Roundoff
- T=  4.000000000000009E-040 and H=  3.637678567300499E-040
- KPP failed here:            1           1         256          -7
- ******* There is a NaN or a high value in gchem_field. Check if your system is 
- unstable! ******    668.781407734383     
- ******* Value of M profile:   1.750045052829315E+018
- i =            1
- j =            1
- k =          256
- n =           31
- TEMP=   207.299285266691     
- Forced exit from Rosenbrock due to the following error:
- --> Step size too small: T + 0.1*H = T or H < Roundoff
- T=  4.181049876089748E-033 and H=  4.181049876089748E-033
- KPP failed here:            1           1         255          -7
- Forced exit from Rosenbrock due to the following error:
- --> Step size too small: T + 0.1*H = T or H < Roundoff
- T=  4.000000000000004E-017 and H=  4.000000000000004E-017
- KPP failed here:            1           1         256          -7
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.503924394484336E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.501846355505067E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499370299750124E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.485020212695973E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.488839380422610E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.488177572326470E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.493515512045504E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.485020212695973E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495847480851270E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.496326776997529E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.485020212695973E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.493542526203350E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495847480851270E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.484664223164412E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.492925833964343E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.484620444548347E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.490827949308755E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.486967767321857E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495847480851270E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.501846355505067E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum NO  =   3.496379354212086E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.490107073000541E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.496433549112101E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.501063803089945E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.501846355505067E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.498420933123759E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.481615586566879E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.489907682677900E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.486043921216107E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499035801252369E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.503877100772863E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.503924394484336E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499963639239405E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499882088443563E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.492028158026903E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.492071780188779E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.494657206145091E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.494651044418086E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.502473802100241E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499222968233229E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499239789207841E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.497351742716166E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499963639239405E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.502050868014154E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.489649805320247E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.504981845423583E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.489735800643436E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.488885328936737E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.503924394484336E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.498014267326363E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495883266841847E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495883266841847E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.494881751785257E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.495883266841847E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.491974958732976E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.500952611027717E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.485068366613811E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.489046172489715E-012
+ *************** Minimum NO  =   0.000000000000000E+000
  Forced exit from Rosenbrock due to the following error:
  --> No of steps exceeds maximum bound
- T=  4.000000000000012E-056 and H=  4.000000000000012E-056
+ T=  4.012476595663827E-053 and H=  4.012476595663827E-053
  KPP failed here:            1           1         256          -6
+ ******* There is a NaN or a high value in gchem_field. Check if your system is 
+ unstable! ******    67.4414062099995     
+ ******* Value of M profile:   1.778700996244418E+018
+ i =            1
+ j =            1
+ k =          255
+ n =           31
+ TEMP=   206.990696155058     
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.486121268629231E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.504981845423583E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.504981845423583E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499963639239405E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499222968233229E-012
+ *************** Minimum NO  =   0.000000000000000E+000
+ *************** Maximum CTG lightning =   0.000000000000000E+000
+ *************** Minimum CTG lightning =   0.000000000000000E+000
+ *************** Maximum NO  =   3.499737485590075E-012
+ *************** Minimum NO  =   0.000000000000000E+000
  ******* There is a NaN or a high value in gchem_field. Check if your system is 
  unstable! ******   3.913768907730375E+018
  ******* Value of M profile:   1.778700996244418E+018
@@ -2343,8 +2587,28 @@ NSTEP =    179 NCYCLE= 1 dtn= 1.000 CFL=0.15 CFLH=0.15 CFLZ=0.00 CFLG=0.00 niter
  j =            1
  k =          255
  n =           31
- TEMP=   206.990696154691     
- Forced exit from Rosenbrock due to the following error:
- --> No of steps exceeds maximum bound
- T=  4.000000000000017E-077 and H=  4.000000000000017E-077
- KPP failed here:            1           1         255          -6
+ TEMP=   206.990696157586     
+ ******* There is a NaN or a high value in gchem_field. Check if your system is 
+ unstable! ******   3.913768907730375E+018
+ ******* Value of M profile:   1.778700996244418E+018
+ i =            1
+ j =            1
+ k =          255
+ n =           31
+ TEMP=   206.990696157684     
+ ******* There is a NaN or a high value in gchem_field. Check if your system is 
+ unstable! ******   3.913768907730375E+018
+ ******* Value of M profile:   1.778700996244418E+018
+ i =            1
+ j =            1
+ k =          255
+ n =           31
+ TEMP=   206.990696158390     
+ ******* There is a NaN or a high value in gchem_field. Check if your system is 
+ unstable! ******   3.913768907730375E+018
+ ******* Value of M profile:   1.778700996244418E+018
+ i =            1
+ j =            1
+ k =          255
+ n =           31
+ TEMP=   206.990696157605     
